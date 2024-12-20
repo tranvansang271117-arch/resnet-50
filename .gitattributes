@@ -1,0 +1,2 @@
+pth/tomato/best_model.pth filter=lfs diff=lfs merge=lfs -text
+pth/tomato/final_model.pth filter=lfs diff=lfs merge=lfs -text
