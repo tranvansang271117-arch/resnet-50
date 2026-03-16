@@ -147,6 +147,6 @@ def predict_image(image_path):
 
 
 # 示例测试：使用训练好的模型预测一张新图像的类别
-test_image_path = 'data/test/tomato/Tomato_Healthy/4_aug_0.jpg'
+test_image_path = 'data/test/tomato/Tomato_Healthy/t-01.jpg'  # 替换为你的测试图像路径
 predicted_class = predict_image(test_image_path)
 print(f"Predicted class: {predicted_class}")
